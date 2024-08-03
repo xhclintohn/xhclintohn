@@ -1,33 +1,29 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
 
 
-<h1 align="center"><b>ʜι ɪ,ʍ sυнαιʟ ᴛᴇᴄʜ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>ʜι ɪ,ʍ Xh_clinton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+Are+You :)..&hearts;++;IT+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
   </a>
 </p>
 
 
-[![Profile views](https://komarev.com/ghpvc/?username=SuhailTechInfo&label=Profile%20views)](https://github.com/SuhailTechInfo)
+[![Profile views](https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views)](https://github.com/xhclintohn)
 
 
 
 
 
 
+- 💫 I’m currently working on [Toxic-Md-V1](https://github.com/xhclintohn/Toxic-Md-V1)
 
-- 💫 I’m currently working on [Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)
-
-- 📫 [How to reach me!](https://github.com/SuhailTechInfo/SuhailTechInfo/blob/main/README.md#-how-to-reach-me)
-
-- 📄 Know about my [experiences](https://github.com/SuhailTechInfo?tab=repositories)
+- 📄 Know about my [experiences](https://github.com/xhclintohn?tab=repositories)
 
 - 👯 I’m looking to collaborate on **JavaScript projects** 
 
-- 🌱 Fun fact **I always wear my favorite pair of quirky socks while programming 😂**
 
 ---
 
@@ -66,11 +62,11 @@
 
 # 📫 How to reach me:
 
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923184474176)
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254735342808)
 
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/SuhailTechInfo0) 
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xhclintohn) 
 
-[![Linked In](https://img.shields.io/badge/linkedIn-1b77FF.svg?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/m-suhail-6839552a2/) <br>
+[![Linked In](https://img.shields.io/badge/linkedIn-1b77FF.svg?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/m-xh_clinton-6839552a2/) <br>
 
 <br>
 
@@ -83,7 +79,7 @@
 
 
 <!--
-**SuhailTechInfo/SuhailTechInfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xhclintohn/xhclintohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
