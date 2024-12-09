@@ -18,7 +18,7 @@
 
 
 
-- 💫 I’m currently working on [Toxic-Md-V1](https://github.com/xhclintohn/Toxic-Md-V1)
+- 💫 I’m currently working on [Toxic-Md-V1](https://github.com/xhclintohn/Toxic-Md)
 
 - 📄 Know about my [experiences](https://github.com/xhclintohn?tab=repositories)
 
