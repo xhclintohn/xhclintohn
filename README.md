@@ -18,7 +18,7 @@
 
 
 
-- 💫 I’m currently working on [Toxic-Md-V1](https://github.com/xhclintohn/Toxic-Md)
+- 💫 I’m currently working on [Toxic-Md](https://github.com/xhclintohn/Toxic-Md)
 
 - 📄 Know about my [experiences](https://github.com/xhclintohn?tab=repositories)
 
@@ -64,7 +64,7 @@
 
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254735342808)
 
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xhclintohn) 
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xhclintonv) 
 
 [![Linked In](https://img.shields.io/badge/linkedIn-1b77FF.svg?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/m-xh_clinton-6839552a2/) <br>
 
