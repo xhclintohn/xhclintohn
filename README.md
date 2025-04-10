@@ -1,4 +1,8 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&redirect=true)
+<div align="right">
+  <a href="https://open.spotify.com/track/5WX1F7nXoWfWVL7Y5XxHlZ" target="_blank">
+    <img src="https://github.com/xhclintohn/xhclintohn/blob/main/spotify-banner.gif?raw=true" width="350" alt="Now Playing: Adacadabra by Lady Gaga" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</div>
 
 <h1 align="center"><b>Hi, I'm xh_clinton</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -28,7 +32,7 @@
 
 - 💻 **Full Stack Developer** with passion for clean code
 - 🌱 Currently mastering **React & Node.js**
-- 💫 Working on [Toxic-Md](https://github.com/xhclintohn/Toxic-MD) - An awesome project!
+- 💫 Working on [Toxic-Md](https://github.com/xhclintohn/Toxic-Md) - An awesome project!
 - 📄 Check out my [portfolio](https://github.com/xhclintohn?tab=repositories)
 - 👯 Looking to collaborate on **JavaScript/TypeScript projects**
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
@@ -106,7 +110,7 @@
   <a href="https://wa.me/254735342808" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://t.me/xhclinv" target="_blank">
+  <a href="https://t.me/xhclintonv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/m-xh_clinton-6839552a2/" target="_blank">
@@ -115,17 +119,14 @@
   <a href="https://twitter.com/xh_clinton" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:xhclinton@gmail.com" target="_blank">
+  <a href="mailto:xhclinton@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="150" alt="Thank You"/>
-  <p>Thanks for visiting my profile! Have a great day! 🙂</p>
+  <p>Thanks for visiting my profile! Have a great day! 😊</p>
 </div>
