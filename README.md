@@ -1,6 +1,4 @@
- href="https://open.spotify.com/user/31rimfksjcwzpagkjkhhw2vcpj4u" target="_blank" align="right">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify Profile" style="width: 350px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</a>
+ [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rimfksjcwzpagkjkhhw2vcpj4u&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)]]
 
 <h1 align="center"><b>Hi, I'm xh_clinton</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
