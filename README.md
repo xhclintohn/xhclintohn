@@ -1,4 +1,5 @@
-[[(https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 <h1 align="center"><b>𝐇𝐢, 𝐈'𝐦 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
