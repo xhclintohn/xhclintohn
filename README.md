@@ -1,3 +1,52 @@
+<!-- Spotify Banner - Pure Markdown Version -->
+<div align="right" style="background-color: #1DB954; border-radius: 12px; padding: 12px; width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <p style="color: white; font-family: Arial; margin: 0; display: flex; align-items: center;">
+    <span style="font-size: 24px; margin-right: 10px;">🎵</span>
+    <span style="flex-grow: 1;">
+      <span style="font-size: 12px; display: block;">NOW PLAYING</span>
+      <span style="font-weight: bold; font-size: 16px; display: block; animation: textScroll 10s linear infinite;">Adacadabra - Lady Gaga ••• Adacadabra - Lady Gaga</span>
+    </span>
+    <span style="font-size: 24px;">🔊</span>
+  </p>
+  <div style="display: flex; margin-top: 8px; height: 4px;">
+    <div style="background-color: white; height: 100%; width: 20%; animation: equalize 1s infinite ease-in-out;"></div>
+    <div style="background-color: white; height: 100%; width: 20%; margin-left: 4px; animation: equalize 1.2s infinite ease-in-out;"></div>
+    <div style="background-color: white; height: 100%; width: 20%; margin-left: 4px; animation: equalize 0.8s infinite ease-in-out;"></div>
+    <div style="background-color: white; height: 100%; width: 20%; margin-left: 4px; animation: equalize 1.1s infinite ease-in-out;"></div>
+  </div>
+</div>
+
+<style>
+  @keyframes textScroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  @keyframes equalize {
+    0%, 100% { height: 4px; }
+    50% { height: 20px; }
+  }
+</style>
+
+<h1 align="center"><b>Hi, I'm xh_clinton</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+Are+You+:)..&hearts;++;IT+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+things..<3" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xhclintohn">
+    <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhclintohn&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak" />
+</div>
+
+<!-- Rest of your README content remains the same -->
+
 <div align="right">
   <a href="https://open.spotify.com/track/5WX1F7nXoWfWVL7Y5XxHlZ" target="_blank">
     <img src="https://github.com/xhclintohn/xhclintohn/blob/main/spotify-banner.gif?raw=true" width="350" alt="Now Playing: Adacadabra by Lady Gaga" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
