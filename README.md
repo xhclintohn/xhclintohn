@@ -29,7 +29,7 @@
 
 - 💻 **Full Stack Developer** with passion for clean code
 - 🌱 Currently mastering **React & Node.js**
-- 💫 Working on [Toxic-Md](https://github.com/xhclintohn/Toxic-Md) - An awesome project!
+- 💫 Working on [Toxic-MD](https://github.com/xhclintohn/Toxic-MD) - An awesome project!
 - 📄 Check out my [portfolio](https://github.com/xhclintohn?tab=repositories)
 - 👯 Looking to collaborate on **JavaScript/TypeScript projects**
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
@@ -125,5 +125,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="150" alt="Thank You"/>
-  <p>Thanks for visiting my profile! Have a great day! 😊</p>
+  <p>Thanks for visiting my profile! Have a great day! 🙂</p>
 </div>
