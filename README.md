@@ -124,9 +124,7 @@
 
 ## 🎧 Spotify Playing
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Now Playing" width="400" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);"/>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31tvn6y7tjpbzwvacw3iitologtq)
 
 ---
 
