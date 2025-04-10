@@ -1,4 +1,8 @@
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rimfksjcwzpagkjkhhw2vcpj4u&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)]]>
+<a href="https://open.spotify.com/user/31rimfksjcwzpagkjkhhw2vcpj4u" target="_blank" align="right">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify Profile" style="width: 350px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</a>
+
+<h1 align="center"><b>Hi, I'm xh_clinton</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -117,12 +121,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
----
-
-## 🎧 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31tvn6y7tjpbzwvacw3iitologtq)
 
 ---
 
