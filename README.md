@@ -26,12 +26,12 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);"/>
 </div>
 
-- 💻 **Full Stack Developer** with passion for clean code
-- 🌱 Currently mastering **React & Node.js**
-- 💫 Working on [Toxic-MD](https://github.com/xhclintohn/Toxic-MD) - An awesome project!
-- 📄 Check out my [portfolio](https://github.com/xhclintohn?tab=repositories)
-- 👯 Looking to collaborate on **JavaScript/TypeScript projects**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+- 💻 **Full Stack Developer** with a passion for clean code  
+- 🌱 Currently mastering **React & Node.js**  
+- 💻 **Toxic-MD Project** → [ [GitHub] ](https://github.com/xhclintohn/Toxic-MD) *(A powerful WhatsApp bot!)*  
+- 🖥️ **My Portfolio** → [ [Visit] ](https://xhclinton.vercel.app)  
+- 👯 Looking to collaborate on **JavaScript/TypeScript projects**  
+- ⚡ **Rare Tech Fact:** Did you know? The first computer "bug" was an actual moth stuck in Harvard's Mark II in 1947! 🤣🐛  
 
 ---
 
@@ -123,5 +123,5 @@
 ---
 
 
-  <p>Thanks for visiting my profile! Have a great day! 🙂</p>
+  <p>Thank you for visiting my profile! Have a great day! 🙂</p>
 </div>
