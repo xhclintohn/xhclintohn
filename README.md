@@ -28,8 +28,8 @@
 
 - 💻 **Full Stack Developer** with a passion for clean code  
 - 🌱 Currently mastering **React & Node.js**  
-- 💻 **Toxic-MD Project** → [ [GitHub] ](https://github.com/xhclintohn/Toxic-MD) *(A powerful WhatsApp bot!)*  
-- 🖥️ **My Portfolio** → [ [Visit] ](https://xhclinton.vercel.app)  
+- 💻 **Toxic-MD Project** → [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhclintohn/Toxic-MD) *(A powerful WhatsApp bot!)*  
+- 🖥️ **My Portfolio** → [![Visit](https://img.shields.io/badge/Visit-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://xhclinton.vercel.app)  
 - 👯 Looking to collaborate on **JavaScript/TypeScript projects**  
 - ⚡ **Rare Tech Fact:** Did you know? The first computer "bug" was an actual moth stuck in Harvard's Mark II in 1947! 🤣🐛  
 
@@ -55,7 +55,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
-  <a href="https:// developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
   
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor= white" alt="Azure"/>
   </a>
 </p>
 
@@ -122,6 +122,5 @@
 
 ---
 
-
-  <p>Thank you for visiting my profile! Have a great day! 🙂</p>
+<p>Thank you for visiting my profile! Have a great day! 🙂</p>
 </div>
