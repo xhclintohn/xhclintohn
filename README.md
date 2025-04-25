@@ -126,7 +126,3 @@
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="150" alt="Thank You"/>
   <p>Thanks for visiting my profile! Have a great day! 🙂</p>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g1g1g1G/giphy.gif" width="200" alt="Happy Coding"/>
-</div>
