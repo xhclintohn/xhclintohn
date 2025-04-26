@@ -110,10 +110,10 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 10px; border: 2px solid #2CA5E0;"/>
   </a>
   <a href="https://www.linkedin.com/in/m-xh_clinton-6839552a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border -radius: 10px; border: 2px solid #0077B5;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; border: 2px solid #0077B5;"/>
   </a>
   <a href="https://twitter.com/xh_clinton" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt ="Twitter" style="border-radius: 10px; border: 2px solid #1DA1F2;"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt ="Twitter" style="border-radius: 10px; border: 2px solid #1DA1 F2;"/>
   </a>
   <a href="mailto:xhclinton@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px; border: 2px solid #D14836;"/>
