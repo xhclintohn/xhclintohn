@@ -29,7 +29,7 @@
 - 💻 **Full Stack Developer** with a passion for clean code  
 - 🌱 Currently mastering **React & Node.js**  
 - 💻 **Toxic-MD Project** → [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhclintohn/Toxic-MD) *(A powerful WhatsApp bot!)*  
-- 🖥️ **My Portfolio** → [![Visit](https://img.shields.io/badge/Visit-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://xhclinton.vercel.app)  
+- 🖥️ **My Portfolio** → [![Visit](https://img.shields.io/badge/Visit-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://xhclinton.xyz)  
 - 👯 Looking to collaborate on **JavaScript/TypeScript projects**  
 - ⚡ **Rare Tech Fact:** Did you know? The first computer "bug" was an actual moth stuck in Harvard's Mark II in 1947! 🤣🐛  
 
