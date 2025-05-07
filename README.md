@@ -106,7 +106,7 @@
   <a href="https://wa.me/254735342808" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 10px; border: 2px solid #25D366;"/>
   </a>
-  <a href="https://t.me/xhclinv" target="_blank">
+  <a href="https://t.me/xhclintonn" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 10px; border: 2px solid #2CA5E0;"/>
   </a>
   <a href="https://www.linkedin.com/in/m-xh_clinton-6839552a2/" target="_blank">
