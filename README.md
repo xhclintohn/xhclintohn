@@ -1,21 +1,25 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
-<h1 align="center"><b>𝐇𝐢, 𝐈'𝐦 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+Are+You+:)..&hearts;++;IT+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+things..<3" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center"><b>𝐇𝐞𝐲, 𝐈'𝐦 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
   <a href="https://github.com/xhclintohn">
-    <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://committers.top/kenya/xhclintohn">
+    <img src="https://org-badge.committers.top/kenya/xhclintohn.svg" alt="committers.top badge"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=53b14f&size=24&center=true&vCenter=true&width=650&height=100&lines=Hello+There+%F0%9F%91%8B;Full+Stack+Developer;Creator+of+Toxic-MD;Tech+Enthusiast+%26+Problem+Solver;Currently+Getting+%22Famous%22+Out+Here+%F0%9F%8E%AF;Always+Learning+New+Things+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+</p>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhclintohn&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhclintohn&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -23,79 +27,64 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" style="border-radius:20px"/>
 </div>
 
-- 💻 **Full Stack Developer** with a passion for clean code  
-- 🌱 Currently mastering **React & Node.js**  
-- 💻 **Toxic-MD Project** → [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhclintohn/Toxic-MD) *(A powerful WhatsApp bot!)*  
-- 🖥️ **My Portfolio** → [![Visit](https://img.shields.io/badge/Visit-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://xhclinton.xyz)  
-- 👯 Looking to collaborate on **JavaScript/TypeScript projects**  
-- ⚡ **Rare Tech Fact:** Did you know? The first computer "bug" was an actual moth stuck in Harvard's Mark II in 1947! 🤣🐛  
+- 💻 **Full Stack Developer (JS/TS)**  
+- 🧠 Passionate about building **automation tools & WhatsApp bots**  
+- 🔥 Creator of **Toxic-MD** — A powerful & evolving multi-feature WhatsApp bot  
+- 🌱 Currently improving skills in **React, Node.js, DevOps & Cloud**  
+- 🌍 From Kenya, now getting **recognized & rising in the dev community**  
+- ⚡ Fun fact: *I debug faster with music — check Spotify above 😅*  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🏆 Featured Project
+
+### 🚨 **Toxic-MD (WhatsApp Bot)**  
+A fast, powerful, multipurpose WhatsApp bot with advanced session handling & modular features.
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhclintohn/Toxic-MD)
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Tech GIF" style="border-radius: 20px;"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
 </div>
 
 <p align="center">
   <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://angular.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
   <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
   <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  </a>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhclintohn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=FFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhclintohn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=FFF"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xhclintohn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=FFF" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xhclintohn&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" alt="Activity Graph" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xhclintohn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=FFF" width="400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xhclintohn&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" width="400"/>
 </div>
 
 ---
@@ -103,24 +92,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://wa.me/254735342808" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 10px; border: 2px solid #25D366;"/>
-  </a>
-  <a href="https://t.me/xhclintonn" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 10px; border: 2px solid #2CA5E0;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/m-xh_clinton-6839552a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; border: 2px solid #0077B5;"/>
-  </a>
-  <a href="https://twitter.com/xh_clinton" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt ="Twitter" style="border-radius: 10px; border: 2px solid #1DA1 F2;"/>
-  </a>
-  <a href="mailto:xhclinton@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px; border: 2px solid #D14836;"/>
-  </a>
+  <a href="https://wa.me/254735342808"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://t.me/xhclintonn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-xh_clinton-6839552a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/xh_clinton"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:xhclinton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<p>Thank you for visiting my profile! Have a great day! 🙂</p>
-</div>
+<p align="center">🔥 Thanks for visiting — more cool stuff coming soon! 🔥</p>
