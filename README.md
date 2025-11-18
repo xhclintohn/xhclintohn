@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://committers.top/kenya/xh_clinton">
+  <a href="https://committers.top/kenya/xhclintohn">
     <img src="https://org-badge.committers.top/kenya/xhclintohn.svg" alt="committers.top badge"/>
   </a>
 </p>
