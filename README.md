@@ -24,7 +24,7 @@
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/xhclintohn)
+
 
 ## 🚀 About Me
 
