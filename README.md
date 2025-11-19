@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=53b14f&size=24&center=true&vCenter=true&width=650&height=100&lines=Hello+There+%F0%9F%91%8B;Full+Stack+Developer;Creator+of+Toxic-MD;Tech+Enthusiast+%26+Problem+Solver;Currently+Getting+%22Famous%22+Out+Here+%F0%9F%8E%AF;Always+Learning+New+Things+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=53b14f&size=24&center=true&vCenter=true&width=650&height=100&lines=Hello+There+%F0%9F%91%8B;Full+Stack+Developer;Creator+of+Toxic-MD;Automation+%26+Bot+Builder;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
 ---
@@ -24,8 +24,6 @@
 
 ---
 
-
-
 ## 🚀 About Me
 
 <div align="center">
@@ -33,18 +31,19 @@
 </div>
 
 - 💻 **Full Stack Developer (JS/TS)**  
-- 🧠 Passionate about building **automation tools & WhatsApp bots**  
-- 🔥 Creator of **Toxic-MD** — A powerful & evolving multi-feature WhatsApp bot  
-- 🌱 Currently improving skills in **React, Node.js, DevOps & Cloud**  
-- 🌍 From Kenya, now getting **recognized & rising in the dev community**  
-- ⚡ Fun fact: *I debug faster with music — check Spotify above 😅*  
+- 🧠 Skilled in building **automation systems, AI-powered workflows, and advanced WhatsApp bots**  
+- 🔥 Creator of **Toxic-MD** — a modular, high-performance WhatsApp bot solution used by groups & businesses  
+- 🤖 Experienced in integrating APIs, creating auto-reply systems, business automation flows, and bot-based group management  
+- 🌱 Continuously improving in **React, Node.js, cloud services, and backend infrastructure**  
+- 🌍 From Kenya, actively contributing and growing within the developer ecosystem  
+- 🎧 Music boosts my productivity — *Spotify details above 😅*  
 
 ---
 
 ## 🏆 Featured Project
 
 ### 🚨 **Toxic-MD (WhatsApp Bot)**  
-A fast, powerful, multipurpose WhatsApp bot with advanced session handling & modular features.
+A fast, reliable and feature-rich WhatsApp bot built with scalable architecture, modern API integration, session handling, and automation capabilities.
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhclintohn/Toxic-MD)
 
@@ -57,6 +56,7 @@ A fast, powerful, multipurpose WhatsApp bot with advanced session handling & mod
 </div>
 
 <p align="center">
+
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -74,6 +74,7 @@ A fast, powerful, multipurpose WhatsApp bot with advanced session handling & mod
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
 </p>
 
 <div align="center">
@@ -103,4 +104,4 @@ A fast, powerful, multipurpose WhatsApp bot with advanced session handling & mod
 
 ---
 
-<p align="center">🔥 Thanks for visiting — more cool stuff coming soon! 🔥</p>
+<p align="center">🔥 Thanks for visiting — more exciting work is on the way! 🔥</p>
