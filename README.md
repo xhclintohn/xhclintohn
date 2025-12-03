@@ -7,8 +7,8 @@
     <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://committers.top/kenya/xhclintohn">
-    <img src="https://org-badge.committers.top/kenya/xhclintohn.svg" alt="committers.top badge"/>
+  <a href="https://user-badge.committers.top/kenya_public/xhclintohn">
+    <img src="https://user-badge.committers.top/kenya_public/xhclintohn.svg" alt="committers.top badge"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/kenya_public/xhclintohn.svg)](https://user-badge.committers.top/kenya_public/xhclintohn)
+
 
 ## 🚀 About Me
 
