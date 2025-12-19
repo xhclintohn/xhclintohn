@@ -106,4 +106,4 @@ A fast, reliable and feature-rich WhatsApp bot built with scalable architecture,
 
 ---
 
-<p align="center">🔥 Thanks for visiting — more exciting work is on the way! 🔥</p>
+<p align="center">Thanks for visiting — more exciting work is on the way! And please don't forget to follow me ⭐</p>
