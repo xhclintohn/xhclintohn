@@ -80,7 +80,7 @@ A fast, reliable and feature-rich WhatsApp bot built with scalable architecture,
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhclintohn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=FFF"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xhclintohn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=FFF"/>
 </div>
 
 ---
@@ -88,7 +88,7 @@ A fast, reliable and feature-rich WhatsApp bot built with scalable architecture,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xhclintohn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=FFF" width="400"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=xhclintohn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=FFF" width="400"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xhclintohn&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" width="400"/>
 </div>
 
